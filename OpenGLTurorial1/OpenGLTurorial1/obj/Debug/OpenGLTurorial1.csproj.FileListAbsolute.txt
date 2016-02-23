@@ -1,0 +1,8 @@
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGLTurorial1.exe.config
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGLTurorial1.exe
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGLTurorial1.pdb
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGL.dll
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\Tao.FreeGlut.dll
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.csprojResolveAssemblyReference.cache
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.exe
+c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.pdb
