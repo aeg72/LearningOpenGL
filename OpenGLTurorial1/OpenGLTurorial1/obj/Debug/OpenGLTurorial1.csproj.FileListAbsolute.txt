@@ -6,3 +6,11 @@ c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTuror
 c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.csprojResolveAssemblyReference.cache
 c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.exe
 c:\users\aeg72\documents\visual studio 2015\Projects\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.pdb
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGLTurorial1.exe.config
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.exe
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.pdb
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGLTurorial1.exe
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGLTurorial1.pdb
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\OpenGL.dll
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\aeg72\Documents\GitHub\LearningOpenGL\OpenGLTurorial1\OpenGLTurorial1\obj\Debug\OpenGLTurorial1.csprojResolveAssemblyReference.cache
